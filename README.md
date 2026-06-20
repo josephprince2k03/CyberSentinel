@@ -201,9 +201,7 @@ Users must comply with all applicable laws and regulations. Unauthorized investi
 
 ## 👩‍💻 Developed By
 
-Shilpa Shree
-
-Master of Computer Applications (MCA)
+Joseph prince
 
 Cybersecurity & OSINT Research Project
 
