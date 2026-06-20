@@ -210,5 +210,5 @@ Cybersecurity & OSINT Research Project
 ## 📄 License
 
 This project is developed for educational and academic purposes.
-<img width="1254" height="1254" alt="CyberSentinel" src="https://github.com/user-attachments/assets/3764f892-c7a0-42ef-a068-520a18b00b8f" />
+
 
